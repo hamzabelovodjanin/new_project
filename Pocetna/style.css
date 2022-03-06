@@ -160,9 +160,15 @@ background-color: bisque;
 }
 
 .o-nama {
-
-   background-color: rgb(156, 156, 219);
+   margin-top: 20px;
    text-align: center;
-   float: right;
+   font-size: 18px;
+   color: black;
+   text-decoration: none;
+   
+   
+  
+   
 }
+
 
