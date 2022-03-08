@@ -33,3 +33,54 @@ body {
     background-color: #008cff;
     color: white;
   }
+
+  .relative {
+
+    position: relative;
+    width: 700px;
+    height: 300px;
+    background-color: rgb(71, 65, 65); 
+    margin-left: 600px;
+    margin-top: 100px;
+  }
+
+  .absolute {
+    background-color: #ff0000;
+    position: absolute;
+    top: -30px;
+    right: -39px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+  }
+
+  .absolute p {
+
+    position: absolute;
+    top: 15px;
+    left: 8px;
+    font-size: 12px;
+  }
+ 
+  .relative h2 {
+
+    text-align: center;
+  }
+
+  .relative p {
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  }
+
+  .idinazad {
+
+    position:fixed;
+    left: 1235px;
+  }
+
+  .idinazad a {
+
+    color: black;
+    text-decoration: none;
+  }
